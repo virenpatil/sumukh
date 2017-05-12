@@ -1,0 +1,6 @@
+npm init
+npm install lite-server --save
+npm install bower -g
+
+bower init
+bower install bootstrap --save
